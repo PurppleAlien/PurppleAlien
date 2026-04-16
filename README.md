@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&color=61dafb&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=flat-square&color=61dafb&logo=github)](https://github.com/PurppleAlien?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-soria/)
-[![Website](https://img.shields.io/badge/Web-antoniosoria.com-61dafb?style=flat-square&logo=google-chrome&logoColor=0d1117)](https://www.antoniosoria.com)
+[![Website](https://img.shields.io/badge/Web-antoniosoria.com-61dafb?style=flat-square&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io )
 
 <br/>
 

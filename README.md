@@ -9,8 +9,8 @@
 <!-- ── Visitor counter + social badges ─────────────────────────────── -->
 ![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&color=61dafb&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=flat-square&color=61dafb&logo=github)](https://github.com/PurppleAlien?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-soria/)
-[![Website](https://img.shields.io/badge/Web-antoniosoria.com-61dafb?style=flat-square&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/antonio-sould/)
+[![Website](https://img.shields.io/badge/Web-purpplealien.github.io-61dafb?style=flat-square&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io)
 
 <br/>
 
@@ -239,11 +239,11 @@ I transform ideas into robust and elegant digital solutions:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-antonio.soria8r%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.soria8r@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-soria/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sould/)
 [![GitHub](https://img.shields.io/badge/GitHub-PurppleAlien-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PurppleAlien)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_55_5464_6553-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525554646553)
 [![Instagram](https://img.shields.io/badge/Instagram-@antoniosould-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniosould/)
-[![Website](https://img.shields.io/badge/Website-antoniosoria.com-61dafb?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://www.antoniosoria.com)
+[![Website](https://img.shields.io/badge/Website-antoniosoria.com-61dafb?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io)
 
 </div>
 

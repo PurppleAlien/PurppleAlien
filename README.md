@@ -1,20 +1,58 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      ANTONIO SORIA — GitHub Profile README
-     Fuente: extraído de antoniosoria.com / PurppleAlien.github.io
+     GitHub: https://github.com/PurppleAlien
+     Website: https://purpplealien.github.io
      Última actualización: 2026
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ── Visitor counter + social badges ─────────────────────────────── -->
-![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&color=61dafb&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=flat-square&color=61dafb&logo=github)](https://github.com/PurppleAlien?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-soria/)
-[![Website](https://img.shields.io/badge/Web-antoniosoria.com-61dafb?style=flat-square&logo=google-chrome&logoColor=0d1117)](https://www.antoniosoria.com)
+<!-- ── Typing SVG animado ────────────────────────────────────────────── -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=720&lines=Hola+%F0%9F%91%8B+soy+Antonio+Soria;Matem%C3%A1tico+%26+Programador;Graph+Theory+%7C+AI+%7C+Algorithms;Java+%7C+Python+%7C+C+%7C+JavaScript"
+    alt="Typing SVG"
+  />
+</a>
 
 <br/>
 
-<!-- ── Name & Title ──────────────────────────────────────────────────── -->
+<p><i>"La información es la resolución de la incertidumbre,<br/>y las matemáticas son el lenguaje perfecto para cuantificarla."</i><br/><b>— Inspirado en Claude Shannon</b></p>
+
+<!-- ── Social badges ─────────────────────────────────────────────────── -->
+<p>
+  <a href="https://www.linkedin.com/in/antonio-sould/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/PurppleAlien" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://purpplealien.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=0d1117" alt="Website" />
+  </a>
+  <a href="https://www.instagram.com/antoniosould/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:antonio.soria8r@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://purpplealien.github.io/portafolio.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portafolio-C678DD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
+
+<!-- ── Counters ──────────────────────────────────────────────────────── -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PurppleAlien&style=for-the-badge&color=61dafb" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/PurppleAlien?style=for-the-badge&color=c678dd" alt="GitHub followers" />
+</p>
+
+</div>
+
+---
+
+<!-- ── ASCII Art / Clase ─────────────────────────────────────────────── -->
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════╗
@@ -29,43 +67,32 @@
 ╚═══════════════════════════════════════════════════╝
 ```
 
-# Antonio **Soria**
+### Antonio **Soria**
 
-### 🧮 Mathematician · 💻 Developer · 🤖 AI Enthusiast
+#### 🧮 Mathematician · 💻 Developer · 🤖 AI Enthusiast
 
 *`> Matemático y desarrollador_`*
 
 **Bridging mathematical rigor and elegant code to build solutions that matter.**
 
-<br/>
-
-<!-- ── Tech badges row ───────────────────────────────────────────────── -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
-I'm a **mathematician and developer** from **Ciudad de México 🇲🇽** with a solid background in applied mathematics and computer science. My academic path combines mathematical rigor with practical programming, always searching for efficient and elegant solutions to complex problems.
+Soy un **matemático y desarrollador** de **Ciudad de México 🇲🇽** con sólida formación en matemáticas aplicadas y ciencias computacionales. Mi trayectoria académica combina el rigor matemático con la programación práctica, siempre en busca de soluciones eficientes y elegantes a problemas complejos.
 
-- 🎓 **UNAM FES Acatlán** — B.Sc. in Applied Mathematics & Computer Science (2016–2020)
-- 🎓 **UAM Iztapalapa** — B.Sc. in Computer Science, focus on AI & Algorithms (2020–present)
-- 💼 **13+ years** writing code — from enterprise software to AI research
-- 🧠 Passionate about **Graph Theory, AI search algorithms, and Mathematical Optimization**
-- 🌐 My site: [purpplealien.github.io](https://purpplealien.github.io) · Portfolio: [purpplealien.github.io/portafolio.html](https://purpplealien.github.io/portafolio.html)
-- ✍️ Writing about **Math, AI, LLMs and scientific curiosities** at `./divulgacion`
-- ⚡ Fun fact: I believe the universe itself can be understood as an information processing system — *thanks, Shannon.*
+- 🎓 **UNAM FES Acatlán** — Lic. en Matemáticas Aplicadas y Computación (2016–2020)
+- 🎓 **UAM Iztapalapa** — Lic. en Ciencias Computacionales, enfoque IA & Algoritmos (2020–presente)
+- 💼 **13+ años** escribiendo código — desde software empresarial hasta investigación en IA
+- 🧠 Apasionado por **Teoría de Grafos, algoritmos de búsqueda IA y Optimización Matemática**
+- 🌐 Sitio web: [purpplealien.github.io](https://purpplealien.github.io/) · Portafolio: [purpplealien.github.io/portafolio.html](https://purpplealien.github.io/portafolio.html)
+- ⚡ Fun fact: Creo que el universo puede entenderse como un sistema de procesamiento de información — *gracias, Shannon.*
 
 ```javascript
 const developer = {
-  languages : ["Java", "C", "Python", "JS"],
+  languages : ["Java", "C", "Python", "JavaScript"],
   domains   : ["AI", "Graph Theory", "Algorithms"],
   education : ["UNAM FES Acatlán", "UAM Iztapalapa"],
   passion   : () => "Solving hard problems elegantly",
@@ -73,181 +100,214 @@ const developer = {
 console.log("Ready to build something great! 🚀");
 ```
 
+### ✅ En qué puedo aportar
+
+- 🔍 **Algoritmos de búsqueda IA** — BFS, DFS, A\*, Minimax, Alpha-Beta Pruning
+- 🕸️ **Teoría de Grafos** — Dijkstra, análisis de redes, optimización en grafos
+- 🧮 **Optimización Matemática** — modelado matemático de problemas complejos
+- 🤖 **Machine Learning** — sistemas de recomendación, collaborative filtering, NLP
+- 🏗️ **Estructuras de Datos avanzadas** — B-Trees, Heaps, diseño eficiente
+- 📊 **Investigación y análisis** — combinando rigor matemático con soluciones prácticas
+
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Arsenal Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&perline=5" />
+</div>
+
+<br/>
+
+### 📌 Especialidades
+
+| Área | Tech |
+| --- | --- |
+| **Lenguajes** | Java · C · Python · JavaScript |
+| **IA & Algoritmos** | BFS/DFS · A\* · Minimax · Alpha-Beta · Dijkstra |
+| **Teoría de Grafos** | Grafos dirigidos/no dirigidos · Optimización · Análisis de redes |
+| **Estructuras de Datos** | B-Trees · Heaps · Árboles · Tablas hash |
+| **Machine Learning** | Collaborative Filtering · NLP · Análisis predictivo |
+| **Web** | HTML5 · CSS3 · JavaScript · PWA · SEO |
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-### 🔢 Mathematics & Theory
-![Graph Theory](https://img.shields.io/badge/Graph_Theory-61dafb?style=flat-square&logoColor=0d1117)
-![Numerical Analysis](https://img.shields.io/badge/Numerical_Analysis-61dafb?style=flat-square)
-![Mathematical Optimization](https://img.shields.io/badge/Optimization-61dafb?style=flat-square)
-![Statistics](https://img.shields.io/badge/Advanced_Statistics-61dafb?style=flat-square)
-![Propositional Logic](https://img.shields.io/badge/Propositional_Logic-61dafb?style=flat-square)
+  <img src="https://streak-stats.demolab.com?user=PurppleAlien&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=C678DD&currStreakLabel=61DAFB&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PurppleAlien&show_icons=true&theme=react&bg_color=0d1117&border_color=21262d&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&hide_border=false&cache_seconds=86400" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=react&bg_color=0d1117&border_color=21262d&title_color=61dafb&text_color=c9d1d9&hide_border=false&cache_seconds=86400" alt="Top Langs" />
 
 </div>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **AI & Algorithms** | ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-c678dd?style=flat-square) ![A*](https://img.shields.io/badge/A*_Search-c678dd?style=flat-square) ![Minimax](https://img.shields.io/badge/Minimax-c678dd?style=flat-square) ![Alpha-Beta](https://img.shields.io/badge/Alpha--Beta_Pruning-c678dd?style=flat-square) ![Dijkstra](https://img.shields.io/badge/Dijkstra-c678dd?style=flat-square) |
-| **Data Structures** | ![B-Trees](https://img.shields.io/badge/B--Trees-00d4aa?style=flat-square) ![Heaps](https://img.shields.io/badge/Heaps-00d4aa?style=flat-square) ![Graphs](https://img.shields.io/badge/Graph_Structures-00d4aa?style=flat-square) |
-| **ML / Data** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-fbbc05?style=flat-square&logo=python&logoColor=black) ![Collaborative Filtering](https://img.shields.io/badge/Collaborative_Filtering-fbbc05?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-fbbc05?style=flat-square) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+<details>
+  <summary><b>Extras (trophies y gráfico de actividad)</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=PurppleAlien&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+    <br/><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&bg_color=0d1117&color=61dafb&line=c678dd&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
+  </div>
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
 <div align="center">
-
-| # | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 🤖 | **AI Algorithms in Java** | Full implementation of BFS, DFS, A\* and Minimax with Alpha-Beta pruning for complex problem solving | `Java` `BFS/DFS` `A*` `Minimax` | [📁 Code](https://drive.google.com/drive/folders/1tIGRackIqnDKqHiVigs8Qwh7efmi2gYS) |
-| ⚙️ | **Systems Development in C** | Efficient low-level systems for high-performance applications | `C` `Optimization` `Low-level` | [📬 Demo](https://www.antoniosoria.com/contacto.html) |
-| 🧮 | **Wang's Algorithm** | Automatic theorem prover for propositional logic | `Java` `Logic` `Theorem Proving` | [📁 Code](https://drive.google.com/drive/folders/1tIGRackIqnDKqHiVigs8Qwh7efmi2gYS) |
-| 🕸️ | **Graph Theory Algorithms** | Graph algorithms for optimization and network analysis (Dijkstra & more) | `Python` `Graphs` `Dijkstra` | [👾 GitHub](https://github.com/PurppleAlien) |
-| 🌳 | **Advanced Data Structures** | Complex data structures (B-Trees, Heaps) optimized for performance | `Java` `B-Trees` `Heaps` | [👾 GitHub](https://github.com/PurppleAlien) |
-| 🎯 | **Recommendation System** | ML-powered recommendation engine using collaborative filtering | `Python` `ML` `Collab. Filtering` | [👾 GitHub](https://github.com/PurppleAlien) |
-| 🖥️ | **Algorithm Visualizer** | Interactive visualizer for BFS, DFS, and A\* — watch algorithms in action! | `JavaScript` `HTML5` `CSS3` | [▶️ Live](https://www.antoniosoria.com/algoritmos.html) |
-
+  <table border="0">
+    <tr>
+      <td width="320px" align="center" valign="top">
+        <h3>🤖 AI Algorithms in Java</h3>
+        <p>Implementación completa de BFS, DFS, A* y Minimax con poda Alpha-Beta para resolución de problemas complejos.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+          <img src="https://img.shields.io/badge/BFS%2FDFS-C678DD?style=flat-square"/>
+          <img src="https://img.shields.io/badge/A*%20%7C%20Minimax-61DAFB?style=flat-square"/>
+        </p>
+        <a href="https://github.com/PurppleAlien">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=0d1117" />
+        </a>
+      </td>
+      <td width="320px" align="center" valign="top">
+        <h3>⚙️ Wang's Algorithm</h3>
+        <p>Demostrador automático de teoremas lógicos usando el algoritmo de Wang para lógica proposicional.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Logic-C678DD?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Theorem_Proving-61DAFB?style=flat-square"/>
+        </p>
+        <a href="https://github.com/PurppleAlien">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=0d1117" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="320px" align="center" valign="top">
+        <h3>🕸️ Graph Theory Algorithms</h3>
+        <p>Algoritmos de grafos para optimización y análisis de redes: Dijkstra, flujo máximo y variantes avanzadas.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Graphs-C678DD?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Dijkstra-61DAFB?style=flat-square"/>
+        </p>
+        <a href="https://github.com/PurppleAlien">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=0d1117" />
+        </a>
+      </td>
+      <td width="320px" align="center" valign="top">
+        <h3>🎯 Recommendation System</h3>
+        <p>Motor de recomendaciones con Machine Learning usando collaborative filtering para personalización avanzada.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ML-C678DD?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Collab._Filtering-61DAFB?style=flat-square"/>
+        </p>
+        <a href="https://github.com/PurppleAlien">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=0d1117" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <h3>🖥️ Algorithm Visualizer</h3>
+        <p>Visualizador interactivo de algoritmos BFS, DFS y A* — ¡observa los algoritmos en acción en tiempo real!</p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        </p>
+        <a href="https://purpplealien.github.io/portafolio.html">
+          <img src="https://img.shields.io/badge/Ver_Demo-C678DD?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/PurppleAlien">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=0d1117" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-> 👉 See the **[full portfolio →](https://www.antoniosoria.com/portafolio.html)** for detailed project descriptions, demos and source code.
+> 👉 Ver el **[portafolio completo →](https://purpplealien.github.io/portafolio.html)** para descripciones detalladas, demos y código fuente.
 
 ---
 
-## 📚 Education & Timeline
+## 📜 Certificaciones
+
+| 🏆 Certificación | 🏢 Emisor | 📅 Detalles |
+| :--- | :--- | :--- |
+| **Fundamentals of Deep Learning** | NVIDIA Deep Learning Institute | Redes neuronales, entrenamiento & GPU Computing |
+| **AWS Cloud Practitioner** | Amazon Web Services | Cloud Foundations, Architecture & Servicios |
+| **Algorithms: Design and Analysis** | Stanford University / Coursera | Graph Algorithms, Dynamic Programming & Optimization |
+
+---
+
+## 📚 Educación & Timeline
 
 ```
-2011 ──────────── 2016 ──────────── 2020 ─────────────── Present
+2011 ──────────── 2016 ──────────── 2020 ─────────────── Presente
   │                 │                 │                      │
   ▼                 ▼                 ▼                      ▼
-Professional      UNAM            UAM Iztapalapa       Professional
-Programming     FES Acatlán       B.Sc. Computer       Development
-(Self-taught)   B.Sc. Applied     Science              (Projects &
-                Math & CS         (AI, Graphs,          Consulting)
-                                   Algorithms)
+Programación      UNAM            UAM Iztapalapa         Proyectos
+Profesional     FES Acatlán       Lic. Ciencias          Personales &
+(autodidacta)   Lic. Mat. Apl.    Computacionales        Consultoría
+                y Computación     (IA, Grafos,           profesional
+                                   Algoritmos)
 ```
 
-| Period | Institution | Degree / Role |
-|--------|-------------|---------------|
-| 2011 – 2016 | Self-taught | Professional Software Development — enterprise apps |
-| 2016 – 2020 | **UNAM FES Acatlán** | B.Sc. in Applied Mathematics & Computer Science |
-| 2020 – Present | **UAM Iztapalapa** | B.Sc. in Computer Science · AI & Algorithms track |
-| 2022 – Present | Independent | Personal & professional projects combining math and code |
+| Período | Institución | Grado / Rol |
+|---------|-------------|-------------|
+| 2011 – 2016 | Autodidacta | Desarrollo de Software Profesional — apps empresariales |
+| 2016 – 2020 | **UNAM FES Acatlán** | Lic. en Matemáticas Aplicadas y Computación |
+| 2020 – Presente | **UAM Iztapalapa** | Lic. en Ciencias Computacionales · enfoque IA & Algoritmos |
+| 2022 – Presente | Independiente | Proyectos personales y profesionales combinando matemáticas y código |
 
 ---
 
-## 🔬 Research Interests
-
-<div align="center">
-
-![Mathematics](https://img.shields.io/badge/📐_Mathematics-161b22?style=for-the-badge&color=0d1117&labelColor=61dafb)
-![Algorithms](https://img.shields.io/badge/⚡_Algorithmics-0d1117?style=for-the-badge&color=0d1117&labelColor=c678dd)
-![AI](https://img.shields.io/badge/🤖_Artificial_Intelligence-0d1117?style=for-the-badge&color=0d1117&labelColor=61dafb)
-![Graph Theory](https://img.shields.io/badge/🕸️_Graph_Theory-0d1117?style=for-the-badge&color=0d1117&labelColor=c678dd)
-![Quantum Computing](https://img.shields.io/badge/⚛️_Quantum_Computing-0d1117?style=for-the-badge&color=0d1117&labelColor=61dafb)
-![Data Analysis](https://img.shields.io/badge/📊_Data_Analysis-0d1117?style=for-the-badge&color=0d1117&labelColor=c678dd)
-![Optimization](https://img.shields.io/badge/🎯_Optimization-0d1117?style=for-the-badge&color=0d1117&labelColor=61dafb)
-![NLP](https://img.shields.io/badge/💬_NLP_&_LLMs-0d1117?style=for-the-badge&color=0d1117&labelColor=c678dd)
-
-</div>
-
----
-
-## 🚧 What I'm Currently Working On
-
-- 🏗️ **Portfolio site** — expanding [antoniosoria.com](https://www.antoniosoria.com) with new interactive demos
-- 🧠 **AI Algorithms** — deepening implementations of search and optimization algorithms
-- 📝 **Divulgación** — writing articles about Math, AI and LLMs for a general audience
-- 🎓 **UAM Iztapalapa** — finishing my Computer Science degree with focus on AI
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<!-- Replace `PurppleAlien` with your username if it changes -->
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=PurppleAlien&show_icons=true&theme=react&bg_color=0d1117&border_color=21262d&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&hide_border=false"
-     alt="Antonio's GitHub stats"/>
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=react&bg_color=0d1117&border_color=21262d&title_color=61dafb&text_color=c9d1d9&hide_border=false"
-     alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=PurppleAlien&theme=react&background=0d1117&border=21262d&ring=61dafb&fire=c678dd&currStreakLabel=61dafb&sideLabels=c9d1d9&dates=8b949e"
-     alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&bg_color=0d1117&color=61dafb&line=c678dd&point=61dafb&area=true&area_color=61dafb&hide_border=true"
-     alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 💡 My Philosophy
+## 💡 Mi Filosofía
 
 > *"La información es la resolución de la incertidumbre, y las matemáticas son el lenguaje perfecto para cuantificarla."*
 >
-> — Inspired by **Claude Shannon**, father of information theory
+> — Inspirado en **Claude Shannon**, padre de la teoría de la información
 
 ```
-{ } The beauty of an algorithm lies not only in its efficiency,
-    but in how it models and solves real-world problems.
+{ } La belleza de un algoritmo no radica solo en su eficiencia,
+    sino en cómo modela y resuelve problemas del mundo real.
 
-{ } Complex problems often have elegant solutions when approached
-    from multiple angles: mathematics, code, and information theory.
+{ } Los problemas complejos suelen tener soluciones elegantes
+    cuando se abordan desde múltiples ángulos: matemáticas,
+    código y teoría de la información.
 
-{ } Mathematics and programming are two sides of the same coin:
-    powerful tools to understand and transform our world.
+{ } Las matemáticas y la programación son dos caras de la misma
+    moneda: herramientas poderosas para entender y transformar
+    nuestro mundo.
 ```
 
 ---
 
-## 🧩 My Studio — Services
-
-I transform ideas into robust and elegant digital solutions:
-
-| Service | Description | Features |
-|---------|-------------|----------|
-| 🖥️ **Web Development** | Modern, responsive, SEO-optimized websites | Responsive design · SEO · API integration · Animations |
-| 📱 **Web Applications** | Progressive Web Apps with advanced features | PWA · Offline storage · Push notifications · Intuitive UI |
-| 🤖 **AI Solutions** | Machine learning & AI algorithms for complex problems | Recommendation systems · NLP · Predictive analytics · Computer vision |
-
-> 💬 *Do you have a project? [Let's talk →](https://www.antoniosoria.com/contacto.html)*
-
----
-
-## 📫 How to Reach Me
+## 📫 Contacto
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-antonio.soria8r%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.soria8r@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--soria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-soria/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--sould-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sould/)
 [![GitHub](https://img.shields.io/badge/GitHub-PurppleAlien-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PurppleAlien)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_55_5464_6553-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525554646553)
 [![Instagram](https://img.shields.io/badge/Instagram-@antoniosould-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniosould/)
-[![Website](https://img.shields.io/badge/Website-antoniosoria.com-61dafb?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://www.antoniosoria.com)
+[![Website](https://img.shields.io/badge/Website-purpplealien.github.io-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-purpplealien.github.io-C678DD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://purpplealien.github.io/portafolio.html)
 
-</div>
-
-<div align="center">
+<br/>
 
 📍 **Ciudad de México, CDMX** · UNAM · UAM Iztapalapa
 
@@ -255,24 +315,12 @@ I transform ideas into robust and elegant digital solutions:
 
 ---
 
-## 📄 Resume / CV
-
 <div align="center">
 
-[![Download CV](https://img.shields.io/badge/📥_Download_CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.antoniosoria.com/doc/curriculum.pdf)
+*© 2026 Antonio Soria · All rights reserved*
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer -->
-
-*© 2024 Antonio Soria · All rights reserved*
-
-[![Made with ❤️ in CDMX](https://img.shields.io/badge/Made_with_❤️_in-CDMX_🇲🇽-61dafb?style=flat-square)](https://www.antoniosoria.com)
-[![Matemático & Dev](https://img.shields.io/badge/matemático_&-desarrollador-c678dd?style=flat-square)](https://www.antoniosoria.com)
+[![Made with ❤️ in CDMX](https://img.shields.io/badge/Made_with_❤️_in-CDMX_🇲🇽-61dafb?style=flat-square)](https://purpplealien.github.io/)
+[![Matemático & Dev](https://img.shields.io/badge/matemático_&-desarrollador-c678dd?style=flat-square)](https://purpplealien.github.io/)
 
 ---
 

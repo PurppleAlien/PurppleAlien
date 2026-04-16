@@ -59,7 +59,7 @@ I'm a **mathematician and developer** from **Ciudad de México 🇲🇽** with a
 - 🎓 **UAM Iztapalapa** — B.Sc. in Computer Science, focus on AI & Algorithms (2020–present)
 - 💼 **13+ years** writing code — from enterprise software to AI research
 - 🧠 Passionate about **Graph Theory, AI search algorithms, and Mathematical Optimization**
-- 🌐 Building [antoniosoria.com](https://www.antoniosoria.com) — a fully bilingual (🇲🇽/🇺🇸) interactive portfolio
+- 🌐 My site: [purpplealien.github.io](https://purpplealien.github.io) · Portfolio: [purpplealien.github.io/portafolio.html](https://purpplealien.github.io/portafolio.html)
 - ✍️ Writing about **Math, AI, LLMs and scientific curiosities** at `./divulgacion`
 - ⚡ Fun fact: I believe the universe itself can be understood as an information processing system — *thanks, Shannon.*
 

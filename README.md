@@ -4,125 +4,92 @@
 
 <div align="center">
 
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────────────────
-#  antonio_soria.py  ·  Ciudad de México 🇲🇽
-# ─────────────────────────────────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0a3e,55:4a0e8f,80:7b2fff,100:9d4edd&height=230&section=header&text=PurppleAlien&fontColor=ffffff&fontSize=80&fontAlignY=38&fontAlign=50&desc=「数学とコードで宇宙を解読する」&descAlignY=60&descSize=20&descAlign=50&animation=fadeIn" width="100%"/>
 
-class Developer:
+<br/>
 
-    name     = "Antonio Soria"
-    alias    = "PurppleAlien"
-    role     = ["Mathematician", "Software Developer", "AI Enthusiast"]
-    location = "CDMX, México"
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=27&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=Mathematician+%26+Software+Developer+%F0%9F%A7%AE;Graph+Theory+%C2%B7+AI+Algorithms+%C2%B7+Optimization;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+years+coding+%E2%80%94+still+running+%E2%9A%A1;CDMX+%F0%9F%87%B2%F0%9F%87%BD+%7C+UAM+Iztapalapa;Building+AI+%C2%B7+Exploring+LLMs+%F0%9F%A4%96" alt="Typing SVG" />
 
-    skills = {
-        "languages"  : ["Java", "Python", "C", "JavaScript"],
-        "domains"    : ["Graph Theory", "AI Search", "Optimization"],
-        "structures" : ["B-Trees", "Heaps", "Graphs"],
-        "algorithms" : ["BFS", "DFS", "A*", "Minimax", "Alpha-Beta"],
-    }
+<br/><br/>
 
-    education = [
-        ("UNAM FES Acatlán",  "Applied Math & CS",    "2016–2020"),
-        ("UAM Iztapalapa",    "Computer Science / AI", "2020–present"),
-    ]
-
-    def solve(self, problem: str) -> str:
-        return self.A_star(problem) or self.BFS(problem)
-
-    def __repr__(self):
-        return f"<Developer · {self.name} · 13+ yrs coding />"
-
-
-me = Developer()
-print(me)
-# → <Developer · Antonio Soria · 13+ yrs coding />
-```
+[![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&label=Profile+Views&color=9d4edd&style=flat-square)](https://github.com/PurppleAlien)
+[![Followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=flat-square&color=7b2fff)](https://github.com/PurppleAlien?tab=followers)
 
 </div>
 
 ---
 
-<br/>
+<img align="right" src="assets/foto-perfil.jpg" width="155" />
 
-<div align="center">
-  <img src="assets/foto-perfil.jpg" width="140" />
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=false&vCenter=true&width=520&lines=Hola+%F0%9F%91%8B+soy+Antonio+Soria;Matemático+%26+Desarrollador+de+Software;IA+%7C+Teoría+de+Grafos+%7C+Optimización;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+años+programando+%E2%80%94+sin+crashes" alt="Typing SVG" />
+</a>
 
-<br/>
+<p><i>「情報は不確実性の解決策だ」 — Claude Shannon</i></p>
 
-<div align="center">
-
-```
-> whoami
-  antonio soria  ·  mathematician & developer  ·  cdmx 🇲🇽
-
-> cat interests.txt
-  graph theory · AI search algorithms · mathematical optimization
-  machine learning · data structures · information theory
-
-> uptime
-  13+ years coding  ·  still running  ·  0 crashes
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/─_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sould/)
-[![GitHub](https://img.shields.io/badge/─_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PurppleAlien)
-[![Website](https://img.shields.io/badge/─_Website-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io/)
-[![Instagram](https://img.shields.io/badge/─_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniosould/)
-[![Email](https://img.shields.io/badge/─_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.soria8r@gmail.com)
-[![Portfolio](https://img.shields.io/badge/─_Portfolio-C678DD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://purpplealien.github.io/portafolio.html)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&style=for-the-badge&color=61dafb&label=visits)
-![Followers](https://img.shields.io/github/followers/PurppleAlien?style=for-the-badge&color=c678dd)
-
-</div>
+<br clear="right"/>
 
 ---
 
-## `$ cat about_me.md`
+## 👨‍💻 〔 素性 〕 Sobre mí
 
-```json
-{
-  "name"        : "Antonio Soria",
-  "alias"       : "PurppleAlien",
-  "role"        : "Mathematician & Software Developer",
-  "location"    : "Ciudad de México 🇲🇽",
-  "experience"  : "13+ years",
-  "university"  : ["UNAM FES Acatlán (2016–2020)", "UAM Iztapalapa (2020–present)"],
-  "focus"       : ["Graph Theory", "AI Algorithms", "Mathematical Optimization"],
-  "languages"   : ["Java", "Python", "C", "JavaScript"],
-  "currently"   : "Finishing CS degree · Building AI projects · Exploring LLMs",
-  "fun_fact"    : "I think the universe is just a really big information processor.",
-  "shannon"     : true
-}
+Soy **Antonio Soria**, matemático y desarrollador con 13+ años programando, basado en **CDMX**.  
+Estudié Matemáticas Aplicadas en la UNAM y termino Ciencias de la Computación en la UAM Iztapalapa, track **IA & Algoritmos**.
+
+Me interesa el código que está **bien pensado, eficiente y correcto** — el que sobrevive una revisión seria, no solo el que compila.
+
+> ⚡ Aprendí matemáticas antes que computación. Eso cambió mi forma de programar: pienso en invariantes, estructuras y demostraciones, no solo en sintaxis.
+
+---
+
+### 🎯 〔 任務 〕 Enfoque actual
+
+| | Área | Temas |
+|--|------|-------|
+| 🤖 | **IA Clásica** | Búsqueda heurística · A\* · Minimax · Alpha-Beta Pruning |
+| 🕸️ | **Teoría de Grafos** | Dijkstra · BFS/DFS · análisis de redes · flujo máximo |
+| 🔢 | **Matemáticas** | Teoría de la información · lógica formal · análisis numérico |
+| 🧬 | **Explorando** | LLMs · agentes IA · arquitecturas modernas de ML |
+
+---
+
+### 🛠️ 〔 道具 〕 Tecnologías
+
 ```
+Lenguajes
+  Java        ████████████░   dominante
+  Python      ███████████░░   fluido
+  C / C++     ████████░░░░░   sólido
+  JavaScript  ██████░░░░░░░   funcional
 
-### `$ ls -la contributions/`
-
-```
-drwxr-xr-x  algorithms/     → BFS · DFS · A* · Minimax · Alpha-Beta Pruning
-drwxr-xr-x  graph_theory/   → Dijkstra · network analysis · graph optimization
-drwxr-xr-x  data_structs/   → B-Trees · Heaps · advanced structures
-drwxr-xr-x  ml_systems/     → recommendation engines · collaborative filtering · NLP
-drwxr-xr-x  math_models/    → formal logic · theorem proving · numerical analysis
-drwxr-xr-x  web_tools/      → interactive visualizers · PWA · frontend
+Herramientas   Git · Linux · Bash · SQL · Docker
+Aprendiendo    Django · Flask · AWS · React · Node.js
 ```
 
 ---
 
-## `$ htop --modules`
+### 🗣️ 〔 対話 〕 Hablemos de
+
+<p>
+  <img src="https://img.shields.io/badge/Algoritmos-9d4edd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Teoría_de_Grafos-7b2fff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IA_Clásica-4a0e8f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Optimización-c77dff?style=flat-square&logoColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Matemáticas_Aplicadas-e040fb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Estructuras_de_Datos-9d4edd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs_&_Agentes_IA-7b2fff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Diseño_de_Software-4a0e8f?style=flat-square"/>
+</p>
+
+---
+
+### ⚔️ 〔 武器庫 〕 Tech Arsenal
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,bash&perline=8&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,arch,linux,aws,azure,django,flask,github&perline=8&theme=dark" />
+</div>
 
 ```
 PID   MODULE            LANG        LOAD    STATUS
@@ -137,54 +104,49 @@ PID   MODULE            LANG        LOAD    STATUS
  08   Information Th.   [math]      █████   running
 ```
 
-</div>
-
-<br/>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
 ---
 
-## `$ git log --graph --oneline` · GitHub Stats
+### 📊 〔 戦績 〕 GitHub Activity
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=PurppleAlien&theme=tokyonight&hide_border=true&background=0D1117&stroke=9d4edd&ring=9d4edd&fire=e040fb&currStreakLabel=9d4edd&sideLabels=c9d1d9&dates=888888" alt="Streak Stats" />
 
-<img src="https://streak-stats.demolab.com?user=PurppleAlien&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=C678DD&currStreakLabel=61DAFB&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PurppleAlien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PurppleAlien&show_icons=true&theme=react&bg_color=0d1117&border_color=21262d&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&hide_border=false&cache_seconds=86400" alt="GitHub Stats" />
+  <br/>
 
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=react&bg_color=0d1117&border_color=21262d&title_color=61dafb&text_color=c9d1d9&hide_border=false&cache_seconds=86400" alt="Top Langs" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=6&cache_seconds=86400" alt="Top Langs" />
 </div>
 
 <details>
-  <summary><code>$ show --trophies --activity-graph</code></summary>
+  <summary><b>⊕ Extras — trofeos y gráfico de actividad</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PurppleAlien&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PurppleAlien&theme=onedark&no-frame=true&margin-w=8&column=7" alt="Trophies" />
     <br/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&bg_color=0d1117&color=61dafb&line=c678dd&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=c77dff&point=e040fb&area=true&area_color=9d4edd" alt="Activity Graph" />
   </div>
 </details>
 
 ---
 
-## `$ cat education.log`
+### 🌸 〔 活動 〕 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=c77dff&point=e040fb&area=true&area_color=9d4edd" width="95%"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PurppleAlien/PurppleAlien/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PurppleAlien/PurppleAlien/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PurppleAlien/PurppleAlien/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### ⛩️ 〔 軌跡 〕 Education Log
 
 ```
 [2011]  init      →  Self-taught · professional software development · enterprise apps
@@ -196,7 +158,7 @@ PID   MODULE            LANG        LOAD    STATUS
 
 ---
 
-## `$ cat philosophy.txt`
+### 🔮 〔 哲学 〕 Philosophy
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -221,22 +183,50 @@ PID   MODULE            LANG        LOAD    STATUS
 
 ---
 
-## `$ ping contact`
+### 🌐 〔 接続 〕 Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/antonio.soria8r%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.soria8r@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/antonio--sould-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-sould/)
-[![GitHub](https://img.shields.io/badge/PurppleAlien-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PurppleAlien)
-[![Instagram](https://img.shields.io/badge/@antoniosould-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniosould/)
-[![Website](https://img.shields.io/badge/purpplealien.github.io-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://purpplealien.github.io/)
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.linkedin.com/in/antonio-sould/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub><b>antonio-sould</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.instagram.com/antoniosould/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+        <sub><b>@antoniosould</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/PurppleAlien" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <sub><b>PurppleAlien</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://purpplealien.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Website-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" /><br/>
+        <sub><b>purpplealien.github.io</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/PurppleAlien?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/-Repos-c77dff?style=for-the-badge&logo=github&logoColor=0d1117" /><br/>
+        <sub><b>mis proyectos</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-```
-PING antonio.soria · CDMX, México
-response: 200 OK  ·  always open to collaborate
-```
+![open to collab](https://img.shields.io/badge/open_to-collaborate-9d4edd?style=flat-square&logo=handshake&logoColor=white)
+![CDMX](https://img.shields.io/badge/desde-CDMX_🇲🇽-c77dff?style=flat-square)
+![response](https://img.shields.io/badge/response-200_OK-4ade80?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
@@ -244,13 +234,17 @@ response: 200 OK  ·  always open to collaborate
 
 <div align="center">
 
-[![CDMX](https://img.shields.io/badge/Built_from-CDMX_🇲🇽-61dafb?style=flat-square)](https://purpplealien.github.io/)
-[![math+code](https://img.shields.io/badge/math_+_code-=_solutions-c678dd?style=flat-square)](https://purpplealien.github.io/)
+[![CDMX](https://img.shields.io/badge/Built_from-CDMX_🇲🇽-9d4edd?style=flat-square)](https://purpplealien.github.io/)
+[![math+code](https://img.shields.io/badge/math_+_code-=_solutions-c77dff?style=flat-square)](https://purpplealien.github.io/)
 
 <br/>
 
-*"Visualizo un día en el que los seres humanos sean libres de la monotonía*
-*y vivan la vida como debería vivirse."*
-*— Claude Shannon*
+*「どんなに複雑でも、エレガントな解法は存在する」*
+<br/>
+*"No matter how complex — an elegant solution exists."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,40:7b2fff,70:4a0e8f,100:0d0221&height=130&section=footer" width="100%"/>
 
 </div>

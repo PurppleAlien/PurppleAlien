@@ -23,7 +23,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=false&vCenter=true&width=520&lines=Hola+%F0%9F%91%8B+soy+Antonio+Soria;Matem%C3%A1tico+%26+Desarrollador+de+Software;IA+%7C+Teor%C3%ADa+de+Grafos+%7C+Optimizaci%C3%B3n;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+a%C3%B1os+programando+%E2%80%94+sin+crashes" alt="Typing SVG" />
 
-<p><i>"La información es la solución a la incertidumbre." 
+<p><i>
 
 "La información es la llave que resuelve la incertidumbre, el algoritmo es su puerta." </i></p>
 

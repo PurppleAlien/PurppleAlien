@@ -21,9 +21,7 @@
 
 <img align="right" src="assets/foto-perfil.jpg" width="155" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=false&vCenter=true&width=520&lines=Hola+%F0%9F%91%8B+soy+Antonio+Soria;Matemático+%26+Desarrollador+de+Software;IA+%7C+Teoría+de+Grafos+%7C+Optimización;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+años+programando+%E2%80%94+sin+crashes" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=false&vCenter=true&width=520&lines=Hola+%F0%9F%91%8B+soy+Antonio+Soria;Matemático+%26+Desarrollador+de+Software;IA+%7C+Teoría+de+Grafos+%7C+Optimización;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+años+programando+%E2%80%94+sin+crashes" alt="Typing SVG" />
 
 <p><i>「情報は不確実性の解決策だ」 — Claude Shannon</i></p>
 
@@ -33,8 +31,8 @@
 
 ## 👨‍💻 〔 素性 〕 Sobre mí
 
-Soy **Antonio Soria**, matemático y desarrollador con 13+ años programando, basado en **CDMX**.  
-Estudié Matemáticas Aplicadas en la UNAM y termino Ciencias de la Computación en la UAM Iztapalapa, track **IA & Algoritmos**.
+Soy **Antonio Soria**, matemático y desarrollador fullstack , vivo en **CDMX**.  
+Estudié Matemáticas Aplicadas en la UNAM y Computación en la UAM Iztapalapa, track **IA & Algoritmos**.
 
 Me interesa el código que está **bien pensado, eficiente y correcto** — el que sobrevive una revisión seria, no solo el que compila.
 
@@ -47,6 +45,8 @@ Me interesa el código que está **bien pensado, eficiente y correcto** — el q
 | | Área | Temas |
 |--|------|-------|
 | 🤖 | **IA Clásica** | Búsqueda heurística · A\* · Minimax · Alpha-Beta Pruning |
+| 💻 | **Ing de Software** | algoritmos · BD · arquitectura de software |
+| 💿 | **Sistemas Operativos** | procesos · memoria · sistema de archivos |
 | 🕸️ | **Teoría de Grafos** | Dijkstra · BFS/DFS · análisis de redes · flujo máximo |
 | 🔢 | **Matemáticas** | Teoría de la información · lógica formal · análisis numérico |
 | 🧬 | **Explorando** | LLMs · agentes IA · arquitecturas modernas de ML |
@@ -61,6 +61,17 @@ Lenguajes
   Python      ███████████░░   fluido
   C / C++     ████████░░░░░   sólido
   JavaScript  ██████░░░░░░░   funcional
+  MATLAB      ████████░░░░░ sólido (modelado matemático, simulaciones)
+
+  Tecnologías web
+HTML5         ████████░░░░░ maquetación sólida
+CSS3          ██████░░░░░░░ estilos responsivos (con Bootstrap)
+
+Herramientas y entornos
+Git · Linux · Bash · Jupyter Notebook · SQL · Docker (aprendiendo)
+
+data analyst
+ipynb (análisis y experimentación) 
 
 Herramientas   Git · Linux · Bash · SQL · Docker
 Aprendiendo    Django · Flask · AWS · React · Node.js

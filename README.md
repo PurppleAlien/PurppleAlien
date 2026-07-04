@@ -62,20 +62,17 @@ Lenguajes
   Java        ████████████░   dominante
   Python      ███████████░░   fluido
   C / C++     ████████░░░░░   sólido
+  MATLAB      ████████░░░░░   sólido (modelado matemático, simulaciones)
   JavaScript  ██████░░░░░░░   funcional
-  MATLAB      ████████░░░░░ sólido (modelado matemático, simulaciones)
 
-  Tecnologías web
-HTML5         ████████░░░░░ maquetación sólida
-CSS3          ██████░░░░░░░ estilos responsivos (con Bootstrap)
+Web
+  HTML5       ████████░░░░░   maquetación sólida
+  CSS3        ██████░░░░░░░   estilos responsivos (con Bootstrap)
 
-Herramientas y entornos
-Git · Linux · Bash · Jupyter Notebook · SQL · Docker (aprendiendo)
+Análisis de datos
+  Jupyter Notebook · análisis y experimentación en .ipynb
 
-data analyst
-ipynb (análisis y experimentación) 
-
-Herramientas   Git · Linux · Bash · SQL · Docker
+Herramientas   Git · Linux · Bash · SQL · Docker (aprendiendo)
 Aprendiendo    Django · Flask · AWS · React · Node.js
 ```
 
@@ -134,12 +131,10 @@ PID   MODULE            LANG        LOAD    STATUS
 </div>
 
 <details>
-  <summary><b>⊕ Extras — trofeos y gráfico de actividad</b></summary>
+  <summary><b>⊕ Extras — trofeos</b></summary>
   <br/>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=PurppleAlien&theme=onedark&no-frame=true&margin-w=8&column=7" alt="Trophies" />
-    <br/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=c77dff&point=e040fb&area=true&area_color=9d4edd" alt="Activity Graph" />
   </div>
 </details>
 

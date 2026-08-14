@@ -4,41 +4,48 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0a3e,55:4a0e8f,80:7b2fff,100:9d4edd&height=230&section=header&text=PurppleAlien&fontColor=ffffff&fontSize=80&fontAlignY=38&fontAlign=50&desc=「数学とコードで宇宙を解読する」&descAlignY=60&descSize=20&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0a3e,55:4a0e8f,80:7b2fff,100:9d4edd&height=210&section=header&text=Antonio%20Soria&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Mathematician%20%26%20Software%20Developer%20%C2%B7%20CDMX&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=27&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=Mathematician+%26+Software+Developer+%F0%9F%A7%AE;Graph+Theory+%C2%B7+AI+Algorithms+%C2%B7+Optimization;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+years+coding+%E2%80%94+still+running+%E2%9A%A1;CDMX+%F0%9F%87%B2%F0%9F%87%BD+%7C+UAM+Iztapalapa;Building+AI+%C2%B7+Exploring+LLMs+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=720&lines=Applied+Mathematics+%C2%B7+AI+%26+Algorithms;Graph+Theory+%C2%B7+Optimization+%C2%B7+Heuristic+Search;Java+%7C+Python+%7C+C%2FC%2B%2B+%7C+JavaScript;13%2B+years+building+software+that+survives+review" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&label=Profile+Views&color=9d4edd&style=flat-square)](https://github.com/PurppleAlien)
-[![Followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=flat-square&color=7b2fff)](https://github.com/PurppleAlien?tab=followers)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-purpplealien.github.io-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0221)](https://purpplealien.github.io/)
+[![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&label=Views&color=9d4edd&style=for-the-badge&labelColor=0d0221)](https://github.com/PurppleAlien)
+[![Followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=for-the-badge&color=7b2fff&labelColor=0d0221)](https://github.com/PurppleAlien?tab=followers)
+
+</div>
+
+<!-- ═══════════════════════  WEB DESTACADA  ═══════════════════════ -->
+
+<div align="center">
+
+### 🌐 〔 拠点 〕 Mi sitio web
+
+<a href="https://purpplealien.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%86%92%20Visita%20mi%20portafolio%20completo-purpplealien.github.io-7b2fff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0221" height="42"/>
+</a>
+
+<sub>Proyectos, matemáticas aplicadas y experimentos de IA — todo en un solo lugar.</sub>
 
 </div>
 
 ---
 
-<img align="right" src="assets/foto-perfil.jpg" width="155" />
+<img align="right" src="assets/foto-perfil.jpg" width="150" style="border-radius:8px"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=false&vCenter=true&width=520&lines=Hola+%F0%9F%91%8B+soy+Antonio+Soria;Matem%C3%A1tico+%26+Desarrollador+de+Software;IA+%7C+Teor%C3%ADa+de+Grafos+%7C+Optimizaci%C3%B3n;Java+%7C+Python+%7C+C+%7C+JavaScript;13%2B+a%C3%B1os+programando+%E2%80%94+sin+crashes" alt="Typing SVG" />
+### 👋 〔 素性 〕 Sobre mí
 
-<p><i>
+Soy **Antonio Soria**, matemático y desarrollador de software en **Ciudad de México**.
+Estudié Matemáticas Aplicadas en la **UNAM** y Computación en la **UAM Iztapalapa**, en el track de **IA & Algoritmos**.
 
-"La información es la llave que resuelve la incertidumbre, el algoritmo es su puerta." </i></p>
+Me interesa el código **bien pensado, eficiente y correcto** — el que sobrevive una revisión seria, no solo el que compila.
+
+> ⚡ Aprendí matemáticas antes que computación. Eso cambió mi forma de programar: pienso en **invariantes, estructuras y demostraciones**, no solo en sintaxis.
 
 <br clear="right"/>
-
----
-
-## 👨‍💻 〔 素性 〕 Sobre mí
-
-Soy **Antonio Soria**, matemático y desarrollador fullstack , vivo en **CDMX**.  
-Estudié Matemáticas Aplicadas en la UNAM y Computación en la UAM Iztapalapa, track **IA & Algoritmos**.
-
-Me interesa el código que está **bien pensado, eficiente y correcto** — el que sobrevive una revisión seria, no solo el que compila.
-
-> ⚡ Aprendí matemáticas antes que computación. Eso cambió mi forma de programar: pienso en invariantes, estructuras y demostraciones, no solo en sintaxis.
 
 ---
 
@@ -47,184 +54,206 @@ Me interesa el código que está **bien pensado, eficiente y correcto** — el q
 | | Área | Temas |
 |--|------|-------|
 | 🤖 | **IA Clásica** | Búsqueda heurística · A\* · Minimax · Alpha-Beta Pruning |
-| 💻 | **Ing de Software** | algoritmos · BD · arquitectura de software |
-| 💿 | **Sistemas Operativos** | procesos · memoria · sistema de archivos |
-| 🕸️ | **Teoría de Grafos** | Dijkstra · BFS/DFS · análisis de redes · flujo máximo |
-| 🔢 | **Matemáticas** | Teoría de la información · lógica formal · análisis numérico |
-| 🧬 | **Explorando** | LLMs · agentes IA · arquitecturas modernas de ML |
+| 🕸️ | **Teoría de Grafos** | Dijkstra · BFS/DFS · flujo máximo · análisis de redes |
+| 💻 | **Ingeniería de Software** | algoritmos · bases de datos · arquitectura |
+| 🔢 | **Matemáticas** | teoría de la información · lógica formal · análisis numérico |
+| 🧬 | **Explorando** | LLMs · agentes de IA · arquitecturas modernas de ML |
 
 ---
 
-### 🛠️ 〔 道具 〕 Tecnologías
-
-```
-Lenguajes
-  Java        ████████████░   dominante
-  Python      ███████████░░   fluido
-  C / C++     ████████░░░░░   sólido
-  MATLAB      ████████░░░░░   sólido (modelado matemático, simulaciones)
-  JavaScript  ██████░░░░░░░   funcional
-
-Web
-  HTML5       ████████░░░░░   maquetación sólida
-  CSS3        ██████░░░░░░░   estilos responsivos (con Bootstrap)
-
-Análisis de datos
-  Jupyter Notebook · análisis y experimentación en .ipynb
-
-Herramientas   Git · Linux · Bash · SQL · Docker (aprendiendo)
-Aprendiendo    Django · Flask · AWS · React · Node.js
-```
-
----
-
-### 🗣️ 〔 対話 〕 Hablemos de
-
-<p>
-  <img src="https://img.shields.io/badge/Algoritmos-9d4edd?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Teoría_de_Grafos-7b2fff?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IA_Clásica-4a0e8f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Optimización-c77dff?style=flat-square&logoColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Matemáticas_Aplicadas-e040fb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Estructuras_de_Datos-9d4edd?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLMs_&_Agentes_IA-7b2fff?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Diseño_de_Software-4a0e8f?style=flat-square"/>
-</p>
-
----
-
-### ⚔️ 〔 武器庫 〕 Tech Arsenal
+### 🛠️ 〔 道具 〕 Stack tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,bash&perline=8&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,arch,linux,aws,azure,django,flask,github&perline=8&theme=dark" />
-</div>
 
-```
-PID   MODULE            LANG        LOAD    STATUS
-───   ──────────────    ────────    ────    ──────
- 01   Graph Theory      Python      ████░   running
- 02   AI Search         Java        █████   running
- 03   Optimization      Python      ████░   running
- 04   ML Systems        Python      ███░░   running
- 05   Theorem Proving   Java        ████░   running
- 06   Web Visualizers   JS/HTML     ███░░   running
- 07   Data Structures   Java/C      █████   running
- 08   Information Th.   [math]      █████   running
-```
+**Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**Web & Datos**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Aprendiendo** · Django · Flask · React · Node.js · AWS
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,bash,git,linux,docker,aws,django,flask&perline=7&theme=dark" />
+
+</div>
 
 ---
 
-### 📊 〔 戦績 〕 GitHub Activity
+### 📊 〔 戦績 〕 Métricas & Actividad
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PurppleAlien&theme=tokyonight&hide_border=true&background=0D1117&stroke=9d4edd&ring=9d4edd&fire=e040fb&currStreakLabel=9d4edd&sideLabels=c9d1d9&dates=888888" alt="Streak Stats" />
 
-  <br/><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PurppleAlien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Langs" width="41%" />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PurppleAlien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<br/>
 
-  <br/>
+<img src="https://streak-stats.demolab.com?user=PurppleAlien&theme=tokyonight&hide_border=true&background=0D1117&stroke=9d4edd&ring=9d4edd&fire=e040fb&currStreakLabel=9d4edd&sideLabels=c9d1d9&dates=888888" alt="Streak Stats" width="60%" />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=6&cache_seconds=86400" alt="Top Langs" />
 </div>
 
-<details>
-  <summary><b>⊕ Extras — trofeos</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PurppleAlien&theme=onedark&no-frame=true&margin-w=8&column=7" alt="Trophies" />
-  </div>
-</details>
+<!-- Panel de métricas profesional (generado por .github/workflows/metrics.yml) -->
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
 
 ---
 
-### 🌸 〔 活動 〕 Contribution Activity
+### 🌸 〔 活動 〕 Animaciones de contribución
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurppleAlien&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=c77dff&point=e040fb&area=true&area_color=9d4edd" width="95%"/>
 </p>
 
+<!-- Snake: eating your contribution grid -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PurppleAlien/PurppleAlien/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PurppleAlien/PurppleAlien/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PurppleAlien/PurppleAlien/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Calendario de contribuciones 3D isométrico animado (generado por .github/workflows/profile-3d.yml) -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="95%"/>
+</p>
+
 ---
 
-### ⛩️ 〔 軌跡 〕 Education Log
+### 🔗 〔 知識 〕 Mapa de conocimiento
+
+```mermaid
+graph LR
+    Math["🔢 Matemáticas"] --> Info["Teoría de la Información"]
+    Math --> Logic["Lógica Formal"]
+    Math --> Num["Análisis Numérico"]
+    Math --> Graphs["🕸️ Teoría de Grafos"]
+    Graphs --> Paths["Caminos mínimos · Dijkstra"]
+    Graphs --> Flow["Flujo máximo"]
+    Graphs --> Search["🤖 Búsqueda heurística"]
+    Search --> AStar["A*"]
+    Search --> Adversarial["Minimax · Alpha-Beta"]
+    Info --> ML["🧬 Machine Learning"]
+    ML --> LLM["LLMs & Agentes IA"]
+    Search --> Opt["⚙️ Optimización"]
+```
+
+---
+
+### ⛩️ 〔 軌跡 〕 Trayectoria
 
 ```
-[2011]  init      →  Self-taught · professional software development · enterprise apps
-[2016]  enroll    →  UNAM FES Acatlán · Applied Mathematics & Computer Science
-[2020]  transfer  →  UAM Iztapalapa · Computer Science · AI & Algorithms track
-[2022]  fork      →  independent projects · math + code + research
+[2011]  init      →  Autodidacta · desarrollo profesional de software · apps enterprise
+[2016]  enroll    →  UNAM FES Acatlán · Matemáticas Aplicadas y Computación
+[2020]  transfer  →  UAM Iztapalapa · Computación · track IA & Algoritmos
+[2022]  fork      →  proyectos independientes · matemáticas + código + investigación
 [now]   status: running · building · learning
 ```
 
 ---
 
-### 🔮 〔 哲学 〕 Philosophy
+### 🔮 〔 哲学 〕 Mi Filosofía
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "La información es la resolución de la incertidumbre,      ║
-║    y las matemáticas son el lenguaje perfecto                 ║
-║    para cuantificarla."                                       ║
-║                                                              ║
-║    — Inspirado en Claude Shannon                             ║
-║      padre de la teoría de la información                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+*Me inspira el pensamiento de los grandes: **Turing, Euler, Gauss y von Neumann**.*
 
-{ }  La belleza de un algoritmo no radica solo en su eficiencia,
-     sino en cómo modela y resuelve problemas del mundo real.
+- **Toda computación**, por compleja que parezca, se reduce a pasos simples y verificables — Turing nos enseñó que pensar también es computar.
+- **La elegancia importa**: como `e^(iπ) + 1 = 0`, la mejor solución es la que une ideas lejanas en una sola línea.
+- **Las matemáticas son la reina de las ciencias** — y un algoritmo hermoso es un teorema que además se ejecuta.
+- Entre la **arquitectura de un computador** y la **estructura de un problema** hay un puente: quien lo cruza en ambos sentidos, como von Neumann, resuelve lo que otros solo describen.
 
-{ }  Matemáticas y código: dos lenguajes para la misma verdad.
+<details>
+  <summary><b>⊕ Voces que me guían</b></summary>
+  <br/>
 
-{ }  Todo problema complejo tiene una solución elegante.
-     A veces solo hay que encontrar el ángulo correcto.
+> *"Solo podemos ver una corta distancia hacia adelante, pero podemos ver allí mucho por hacer."*
+> — **Alan Turing**, padre de la computación
+
+> *"Las matemáticas son la reina de las ciencias, y la aritmética la reina de las matemáticas."*
+> — **Carl Friedrich Gauss**, príncipe de las matemáticas
+
+> *"Nada sucede en el universo sin que aparezca alguna regla de máximo o mínimo."*
+> — **Leonhard Euler**, el maestro de todos nosotros
+
+> *"Si la gente no cree que las matemáticas son simples, es solo porque no se da cuenta de lo complicada que es la vida."*
+> — **John von Neumann**, pionero de la computación moderna
+
+</details>
+
+---
+
+### 📍 〔 現在地 〕 Dónde radico
+
+<sub>Ciudad de México 🇲🇽 — donde las matemáticas, el código y el café se cruzan.</sub>
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad de México — aquí resido",
+        "marker-color": "#9d4edd",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.1332, 19.4326]
+      }
+    }
+  ]
+}
 ```
 
 ---
 
-### 🌐 〔 接続 〕 Connect
+### 🌐 〔 接続 〕 Contacto
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="160">
-      <a href="https://www.linkedin.com/in/antonio-sould/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
-        <sub><b>antonio-sould</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://www.instagram.com/antoniosould/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
-        <sub><b>@antoniosould</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/PurppleAlien" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub><b>PurppleAlien</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
+    <td align="center" width="150">
       <a href="https://purpplealien.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Website-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" /><br/>
         <sub><b>purpplealien.github.io</b></sub>
       </a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150">
+      <a href="https://www.linkedin.com/in/antonio-sould/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub><b>antonio-sould</b></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.instagram.com/antoniosould/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+        <sub><b>@antoniosould</b></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
       <a href="https://github.com/PurppleAlien?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/-Repos-c77dff?style=for-the-badge&logo=github&logoColor=0d1117" /><br/>
-        <sub><b>mis proyectos</b></sub>
+        <img src="https://img.shields.io/badge/-Proyectos-c77dff?style=for-the-badge&logo=github&logoColor=0d1117" /><br/>
+        <sub><b>mis repos</b></sub>
       </a>
     </td>
   </tr>
@@ -234,7 +263,6 @@ PID   MODULE            LANG        LOAD    STATUS
 
 ![open to collab](https://img.shields.io/badge/open_to-collaborate-9d4edd?style=flat-square&logo=handshake&logoColor=white)
 ![CDMX](https://img.shields.io/badge/desde-CDMX_🇲🇽-c77dff?style=flat-square)
-![response](https://img.shields.io/badge/response-200_OK-4ade80?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
@@ -242,17 +270,12 @@ PID   MODULE            LANG        LOAD    STATUS
 
 <div align="center">
 
-[![CDMX](https://img.shields.io/badge/Built_from-CDMX_🇲🇽-9d4edd?style=flat-square)](https://purpplealien.github.io/)
-[![math+code](https://img.shields.io/badge/math_+_code-=_solutions-c77dff?style=flat-square)](https://purpplealien.github.io/)
-
-<br/>
-
 *「どんなに複雑でも、エレガントな解法は存在する」*
 <br/>
 *"No matter how complex — an elegant solution exists."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,40:7b2fff,70:4a0e8f,100:0d0221&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,40:7b2fff,70:4a0e8f,100:0d0221&height=120&section=footer" width="100%"/>
 
 </div>

@@ -1,0 +1,6 @@
+# Tooling local (gstack / Claude Code)
+.gstack/
+
+# Temporales del sistema
+*.tmp
+.DS_Store

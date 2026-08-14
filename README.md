@@ -4,7 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0a3e,55:4a0e8f,80:7b2fff,100:9d4edd&height=210&section=header&text=Antonio%20Soria&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Mathematician%20%26%20Software%20Developer%20%C2%B7%20CDMX&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0a3e,55:4a0e8f,80:7b2fff,100:9d4edd&height=160&section=header" width="100%"/>
+
+<h1>Antonio Soria</h1>
+<h3>🧮 Mathematician &amp; Software Developer · CDMX 🇲🇽</h3>
 
 <br/>
 
@@ -202,12 +205,32 @@ graph LR
 
 ### 📍 〔 現在地 〕 Dónde radico
 
-<sub>Ciudad de México 🇲🇽 — donde las matemáticas, el código y el café se cruzan.</sub>
+**🇲🇽 Ciudad de México** — mi base, donde las matemáticas, el código y el café se cruzan.
 
 ```geojson
 {
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zona Metropolitana de la CDMX",
+        "fill": "#9d4edd",
+        "fill-opacity": 0.15,
+        "stroke": "#7b2fff",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-99.36, 19.59],
+          [-98.94, 19.59],
+          [-98.94, 19.18],
+          [-99.36, 19.18],
+          [-99.36, 19.59]
+        ]]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -218,6 +241,60 @@ graph LR
       "geometry": {
         "type": "Point",
         "coordinates": [-99.1332, 19.4326]
+      }
+    }
+  ]
+}
+```
+
+**🇺🇸 Florida (Orlando · Kissimmee)** — la zona que visito con frecuencia.
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Área Orlando – Kissimmee",
+        "fill": "#7b2fff",
+        "fill-opacity": 0.12,
+        "stroke": "#9d4edd",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-81.60, 28.70],
+          [-81.15, 28.70],
+          [-81.15, 28.18],
+          [-81.60, 28.18],
+          [-81.60, 28.70]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orlando",
+        "marker-color": "#c77dff",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3792, 28.5383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kissimmee",
+        "marker-color": "#c77dff",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.4076, 28.2920]
       }
     }
   ]

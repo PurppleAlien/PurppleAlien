@@ -106,8 +106,8 @@ Me interesa el código **bien pensado, eficiente y correcto** — el que sobrevi
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PurppleAlien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Langs" width="41%" />
+<img src="https://gh-readme-stats.vercel.app/api?username=PurppleAlien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=PurppleAlien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Langs" width="41%" />
 
 <br/>
 
@@ -115,9 +115,17 @@ Me interesa el código **bien pensado, eficiente y correcto** — el que sobrevi
 
 </div>
 
-<!-- Panel de métricas profesional (generado por .github/workflows/metrics.yml) -->
+<!-- Panel de métricas profesional (generado por .github/workflows/metrics.yml)
+     ⚠️ DESCOMENTA este bloque cuando ya exista el secret METRICS_TOKEN y hayas
+        corrido el workflow "Metrics" al menos una vez (pestaña Actions).
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+-->
+
+<!-- Trofeos (no requieren token) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PurppleAlien&theme=onedark&no-frame=true&margin-w=8&column=7&title_color=9d4edd" alt="Trophies" width="100%" />
 </div>
 
 ---
@@ -146,18 +154,57 @@ Me interesa el código **bien pensado, eficiente y correcto** — el que sobrevi
 
 ```mermaid
 graph LR
-    Math["🔢 Matemáticas"] --> Info["Teoría de la Información"]
-    Math --> Logic["Lógica Formal"]
-    Math --> Num["Análisis Numérico"]
-    Math --> Graphs["🕸️ Teoría de Grafos"]
-    Graphs --> Paths["Caminos mínimos · Dijkstra"]
-    Graphs --> Flow["Flujo máximo"]
-    Graphs --> Search["🤖 Búsqueda heurística"]
-    Search --> AStar["A*"]
-    Search --> Adversarial["Minimax · Alpha-Beta"]
-    Info --> ML["🧬 Machine Learning"]
-    ML --> LLM["LLMs & Agentes IA"]
-    Search --> Opt["⚙️ Optimización"]
+    subgraph MAT["🔢 Matemáticas"]
+        Alg["Álgebra"]
+        Cal["Cálculo"]
+        Geo["Geometría"]
+        Cplx["Números Complejos"]
+        Disc["Matemáticas Discretas"]
+        Prob["Probabilidad y Estadística"]
+        NumM["Métodos Numéricos"]
+        Info["Teoría de la Información"]
+        Logic["Lógica Formal"]
+        Opt["⚙️ Optimización"]
+    end
+
+    subgraph CS["💻 Ciencias de la Computación"]
+        Algo["Algoritmia"]
+        DS["Estructuras de Datos"]
+        Graphs["🕸️ Teoría de Grafos"]
+        Arch["Arquitectura de Computadoras"]
+        OS["Sistemas Operativos"]
+        Comp["Compiladores"]
+        SE["Ingeniería de Software"]
+        AI["🤖 Inteligencia Artificial"]
+    end
+
+    ML["🧬 Machine Learning"]
+    LLM["LLMs & Agentes IA"]
+
+    %% Puentes matemáticas → computación
+    Disc --> Graphs
+    Disc --> Algo
+    Disc --> Logic
+    Cal --> NumM
+    Cplx --> Geo
+    Alg --> ML
+    Cal --> ML
+    Prob --> ML
+    Info --> ML
+    Opt --> ML
+
+    %% Núcleo de computación
+    Graphs --> Algo
+    Geo --> Algo
+    Algo --> DS
+    Algo --> Opt
+    Arch --> OS
+    Arch --> Comp
+    Logic --> Comp
+    SE --> DS
+    AI --> Graphs
+    AI --> ML
+    ML --> LLM
 ```
 
 ---
@@ -205,101 +252,24 @@ graph LR
 
 ### 📍 〔 現在地 〕 Dónde radico
 
-**🇲🇽 Ciudad de México** — mi base, donde las matemáticas, el código y el café se cruzan.
+<div align="center">
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zona Metropolitana de la CDMX",
-        "fill": "#9d4edd",
-        "fill-opacity": 0.15,
-        "stroke": "#7b2fff",
-        "stroke-width": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-99.36, 19.59],
-          [-98.94, 19.59],
-          [-98.94, 19.18],
-          [-99.36, 19.18],
-          [-99.36, 19.59]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ciudad de México — aquí resido",
-        "marker-color": "#9d4edd",
-        "marker-size": "large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.1332, 19.4326]
-      }
-    }
-  ]
-}
-```
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🇲🇽 Ciudad de México</b><br/>
+      <sub>mi base</sub><br/><br/>
+      <img src="https://static-maps.yandex.ru/1.x/?ll=-99.1332,19.4326&z=10&size=450,300&l=map" alt="Mapa de la Ciudad de México" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <b>🇺🇸 Florida · Orlando &amp; Kissimmee</b><br/>
+      <sub>la zona que visito con frecuencia</sub><br/><br/>
+      <img src="https://static-maps.yandex.ru/1.x/?ll=-81.3900,28.4100&z=9&size=450,300&l=map" alt="Mapa de Orlando y Kissimmee, Florida" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-**🇺🇸 Florida (Orlando · Kissimmee)** — la zona que visito con frecuencia.
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Área Orlando – Kissimmee",
-        "fill": "#7b2fff",
-        "fill-opacity": 0.12,
-        "stroke": "#9d4edd",
-        "stroke-width": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-81.60, 28.70],
-          [-81.15, 28.70],
-          [-81.15, 28.18],
-          [-81.60, 28.18],
-          [-81.60, 28.70]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Orlando",
-        "marker-color": "#c77dff",
-        "marker-size": "large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3792, 28.5383]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kissimmee",
-        "marker-color": "#c77dff",
-        "marker-size": "large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.4076, 28.2920]
-      }
-    }
-  ]
-}
-```
+</div>
 
 ---
 

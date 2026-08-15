@@ -6,7 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0a3e,55:4a0e8f,80:7b2fff,100:9d4edd&height=160&section=header" width="100%"/>
 
-<h1>Antonio Soria</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=60&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=90&lines=Antonio+Soria" alt="Antonio Soria" />
+
 <h3>🧮 Mathematician &amp; Software Developer · CDMX 🇲🇽</h3>
 
 <br/>
@@ -15,7 +16,6 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-purpplealien.github.io-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0221)](https://purpplealien.github.io/)
 [![Profile Views](https://komarev.com/ghpvc/?username=PurppleAlien&label=Views&color=9d4edd&style=for-the-badge&labelColor=0d0221)](https://github.com/PurppleAlien)
 [![Followers](https://img.shields.io/github/followers/PurppleAlien?label=Followers&style=for-the-badge&color=7b2fff&labelColor=0d0221)](https://github.com/PurppleAlien?tab=followers)
 

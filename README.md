@@ -259,12 +259,12 @@ graph LR
     <td align="center" width="50%">
       <b>🇲🇽 Ciudad de México</b><br/>
       <sub>mi base</sub><br/><br/>
-      <img src="https://static-maps.yandex.ru/1.x/?ll=-99.1332,19.4326&z=10&size=450,300&l=map" alt="Mapa de la Ciudad de México" width="100%"/>
+      <img src="https://static-maps.yandex.ru/1.x/?ll=-99.1332,19.4326&z=10&size=450,300&l=map&lang=en_US" alt="Mapa de la Ciudad de México" width="100%"/>
     </td>
     <td align="center" width="50%">
       <b>🇺🇸 Florida · Orlando &amp; Kissimmee</b><br/>
       <sub>la zona que visito con frecuencia</sub><br/><br/>
-      <img src="https://static-maps.yandex.ru/1.x/?ll=-81.3900,28.4100&z=9&size=450,300&l=map" alt="Mapa de Orlando y Kissimmee, Florida" width="100%"/>
+      <img src="https://static-maps.yandex.ru/1.x/?ll=-81.3900,28.4100&z=9&size=450,300&l=map&lang=en_US" alt="Mapa de Orlando y Kissimmee, Florida" width="100%"/>
     </td>
   </tr>
 </table>
